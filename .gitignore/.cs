@@ -1,4 +1,7 @@
- //Timer 1 milisaniyede bir calışıyor
+//Bu işlem web te 
+//<marquee align="middle" scrollamount="1" height="30" width="100%" direction="down"scrolldelay="1">YAZINIZ BURAYA</marquee>
+//ile yapılırken winformda 
+//Timer 1 milisaniyede bir calışıyor
  
  private void timer1_Tick(object sender, EventArgs e)
         {
